@@ -96,14 +96,22 @@ You can also submit ideas or questions in [OpenMuscle Discussions](https://githu
 
 ## 📜 License
 
-This repository’s **KiCad files and mechanical designs** are licensed under the  
-📄 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+This repository is covered by a combination of licenses based on content type:
 
-Any code snippets are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+- **Hardware Design Files** (KiCad schematics, PCB layouts, mechanical files):  
+  📄 [CERN Open Hardware License v2.0 – Strongly Reciprocal (CERN-OHL-S)](https://ohwr.org/cern_ohl_s_v2.txt)  
+  → You may copy, modify, and manufacture hardware as long as you release modifications under the same license.
 
-```markdown
+- **Firmware and Code Snippets** (e.g. MicroPython, setup scripts):  
+  📄 [MIT License](https://opensource.org/licenses/MIT)  
+  → You may use, modify, and redistribute the code freely with attribution.
+
+- **Art and Visual Media** (e.g. logos, SVGs, diagrams, illustrations):  
+  🎨 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+  → You may use and remix art assets with credit to the original authors.
+  
 🔍 See [LICENSE.md](../LICENSE.md) for full licensing details.
-```
+
 
 ---
 
