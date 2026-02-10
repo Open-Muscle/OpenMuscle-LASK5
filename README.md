@@ -59,7 +59,7 @@ Each folder contains complete KiCad files, BOMs, and version-specific layout cha
 
 The firmware for all LASK versions is maintained centrally in:
 
-📂 [OpenMuscle-Software → `/embedded/lask5`](https://github.com/Open-Muscle/OpenMuscle-Software/tree/main/embedded/lask5)
+📂 [OpenMuscle-Software → `/embedded/lask5`](https://github.com/Open-Muscle/OpenMuscle-Software/tree/main/embedded/LASK5)
 
 > ✅ Be sure to match the firmware branch or directory with your hardware version (see notes in the firmware repo for version compatibility).
 
