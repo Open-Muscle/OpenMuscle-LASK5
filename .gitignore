@@ -1,0 +1,14 @@
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad autosave files
+_autosave-*
+
+# KiCad cache files
+*-cache.lib
+fp-info-cache
+
+# OS junk
+.DS_Store
+Thumbs.db
