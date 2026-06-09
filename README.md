@@ -2,7 +2,8 @@
 
 ![LASK5 Demo](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![ESP32-S3](https://img.shields.io/badge/MCU-ESP32--S3-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Hardware: CERN-OHL-S-2.0](https://img.shields.io/badge/Hardware-CERN--OHL--S--2.0-blue.svg)
+![Code: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)
 
 LASK5 is a compact, gloveless smart glove controller designed for robotics, machine learning, and human-computer interaction projects. Originally created to assist with labeling movement data for the [OpenMuscle](https://openmuscle.org) project, this controller is now a fully open-source interface capable of controlling robotic hands, LED sculptures, and more.
 
@@ -110,7 +111,7 @@ This repository is covered by a combination of licenses based on content type:
   🎨 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
   → You may use and remix art assets with credit to the original authors.
   
-🔍 See [LICENSE.md](../LICENSE.md) for full licensing details.
+🔍 The hardware license text lives at [LICENSE](LICENSE) (root) and in [LICENSES/](LICENSES/).
 
 
 ---
